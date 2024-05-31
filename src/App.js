@@ -33,6 +33,12 @@ function App() {
           </button>
       
       </header>
+      <a href="http://fathomless-bayou-60027.herokuapp.com/"><small>By Jerard Louis Dayanghirang Guevarra
+        <br/>
+        Click here to find me online!
+        </small></a>
+        <br/>
+        <small className="seo">An app by Jerard Louis Dayanghirang Guevarra, software engineer and musician. @jerardlouis Jerard Louis Dayanghirang Guevarra @jerardlouis </small>
     </div>
   );
 }
